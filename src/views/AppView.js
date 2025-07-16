@@ -355,7 +355,7 @@ printResultTextCSS = () => {
                 </div>
                 
                 <p className="copy-right text-right">
-                    &copy; 2020, <a href="https://github.com/ManiruzzamanAkash" target="_blank">Maniruzzaman Akash </a>
+                    &copy; 2025, <a href="https://github.com/ManiruzzamanAkash" target="_blank">Charan Naidu </a>
                 </p>
             </div>
             </div>
