@@ -1,4 +1,5 @@
 # Step 1: Build React App
+#so testing the SCM 
 FROM node:18-alpine AS build
 WORKDIR /app
 COPY package*.json ./
